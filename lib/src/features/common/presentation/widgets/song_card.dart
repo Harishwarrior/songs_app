@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:songs_app/src/common/service/songs_service.dart';
+import 'package:songs_app/src/features/common/service/songs_service.dart';
 
 class SongCard extends StatelessWidget {
   final String id;

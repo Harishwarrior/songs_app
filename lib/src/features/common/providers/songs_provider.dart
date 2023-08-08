@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:songs_app/src/common/domain/model/songs.dart';
+import 'package:songs_app/src/features/common/domain/model/songs.dart';
 
 /// Retrieves all the songs from 'songs' collection from Firebase firestore
 /// and maps it list of [Song] object

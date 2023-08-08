@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:songs_app/src/common/presentation/widgets/song_card.dart';
-import 'package:songs_app/src/common/providers/songs_provider.dart';
+import 'package:songs_app/src/features/common/presentation/widgets/song_card.dart';
+import 'package:songs_app/src/features/common/providers/songs_provider.dart';
 
 /// Shows the songs which are marked as favourite
 class FavouritesPage extends ConsumerWidget {
