@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223248819045",
+    "firebase_url": "https://songs-app-ce882-default-rtdb.firebaseio.com",
+    "project_id": "songs-app-ce882",
+    "storage_bucket": "songs-app-ce882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223248819045:android:aa09e58292628ec405778c",
+        "android_client_info": {
+          "package_name": "com.example.songs_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223248819045-detatfl49pcr90to6n2c23927qfts7ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn3ETxEZQg3nMBrKDdvfAmoNtGAOLBtAg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223248819045-detatfl49pcr90to6n2c23927qfts7ke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "223248819045-242rmrvs5rjdhemimgik5ef39n2f40s1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.songsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
